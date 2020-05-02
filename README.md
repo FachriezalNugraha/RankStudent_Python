@@ -1,1 +1,1 @@
-Aplikasi Rank Student yang dibuat menggunakan python. 
+Aplikasi Ranking Student yang dibuat menggunakan python. 
